@@ -1,0 +1,11 @@
+{
+  "function": {},
+  "auth": {
+    "shopapp7707c046": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
